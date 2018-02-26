@@ -6,13 +6,12 @@ Haddad
 Matos
 Lelê
 Mazzarella
-Luis Junior
 Gomes Pereira
 Vinícius do Val
 Torres
 Leite
 Jerônimo (Moreno)
-Souza de Oliveira (In Memoria)
+Souza de Oliveira 
 Felix
 Rubens Ide
 Dias
@@ -75,7 +74,6 @@ Jardim
 Navajas
 Brívio
 Raymundo da Silva
-C.
 Ressureição
 Carlos Sena
 Arranha
@@ -142,7 +140,6 @@ da Silva Proença
 Lucas
 dos Santos
 Dorion
-Mídia
 Abreu
 Jorge
 Elias
@@ -178,7 +175,6 @@ Belfort
 Franco
 Vasconcellos
 Rozas
-Desfilou
 Caribé
 Eduardo
 Herzog
@@ -240,7 +236,6 @@ Lacerda
 Chaves
 Nascimento
 Gusman
-Col
 Ribeiro
 Paulinho
 Luis de Moura
@@ -287,7 +282,7 @@ Helena Farelli
 de Lima
 Dino dos Santos
 da Vilva
-Louzada - enredo original de Ney Ayan
+Louzada 
 Malheiro
 Varnier
 Madrugada
@@ -377,10 +372,9 @@ Delano
 Araújo
 Lima Galvão
 Rangel
-Alves da Silva (Gás)
+Alves da Silva 
 Leal
 Lávia
-L.
 Martins
 Vitor
 Vannier
@@ -422,7 +416,7 @@ Rodrigues Rocha
 André Wendos
 Estevão
 Escrevente
-machado
+Machado
 Cirne
 Boiron
 Paulo Pinto
