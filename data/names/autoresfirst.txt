@@ -62,7 +62,6 @@ Solange
 Gerônimo
 Marcello
 Paula
-N/D
 Joãozinho
 Jhonson
 Manoel
@@ -89,12 +88,10 @@ Henrique
 Michele
 Erler
 Rita
-Desenvolvimento
 Alan
 Giovani
 Boca
 Roseli
-de
 Paco
 Arilton
 Lucas
@@ -114,7 +111,6 @@ Arnaldo
 Natan
 Rosane
 Rubens
-E.
 Máslova
 Vinícius
 Marcus
@@ -141,7 +137,6 @@ Cristiano
 Wanderlei
 Augusto
 Don
-Não
 Edmílson
 Teresa
 Bill
@@ -208,7 +203,6 @@ Sebastião
 Alfredo
 Anna
 Tarcísio
-Jr.
 Lane
 Elizabeth
 Milton
@@ -247,7 +241,6 @@ Hernane
 J.
 Altay
 Jurandi
-o
 Alex
 Renata
 Wilsinho
@@ -307,11 +300,9 @@ Rogério
 Wilaon
 Adauto
 André
-At
 Marcos
 Adalberto
 Adílio
-Da
 Plínio
 Bira
 Fabiano
@@ -326,7 +317,6 @@ Gil
 Newton
 Marcyo
 Lauro
-Comissão
 Lorena
 Regina
 Guina
@@ -406,7 +396,6 @@ Marcel
 Andreia
 Edmilson
 Acir
-Ad
 Braulino
 Hércules
 Alberto
@@ -417,13 +406,11 @@ Tancredo
 Jeferson
 Wallacy
 Marta
-By
 Florindo
 Sandro
 Almir
 Maurílio
 Daniel
-a
 Jacy
 Odair
 Frederico
@@ -456,7 +443,6 @@ Jose
 Cidinho
 Gláucia
 Celino
-Diretoria
 Fran
 Carlos
 Cláudio
@@ -488,7 +474,6 @@ Carlinhos
 Rosa
 Cláudia
 Ailton
-D.
 Oziene
 Roberto
 Edson
