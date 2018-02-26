@@ -8,10 +8,11 @@ firstnames = set()
 lastnames = set()
 probabilities = []
 
-
-for filename in glob.glob(os.path.join(path, 'autores.txt')):
+mestre = 0
+for filename in glob.glob(os.path.join(path, '*.txt')):
     onename = 0
     twonames = 0
+
     f = open(filename, 'r')
     category = filename.split('/')[-1][:-4]
 
@@ -19,11 +20,12 @@ for filename in glob.glob(os.path.join(path, 'autores.txt')):
 
     for line in lines:
         names = line.split(" ", 1)
-        print(names)
         if len(names) > 1:
             firstnames.add(names[0].strip("\n"))
             lastnames.add(names[1].strip("\n"))
             twonames = twonames + 1
+            if names[0].strip("\n").startswith("Mestr"):
+                mestre = mestre + 1
         else:
             firstnames.add(names[0].strip("\n"))
             onename = onename + 1
@@ -42,7 +44,11 @@ for filename in glob.glob(os.path.join(path, 'autores.txt')):
     output2.close()
     prob1 = onename / (onename + twonames)
     prob2 = twonames / (onename + twonames)
-    probabilities.append([category, str(prob1), str(prob2) + "\n"])
+    if category == 'bateria':
+        probabilities.append([category, str(prob1), str(prob2),
+                             str(mestre / (twonames)) + "\n"])
+    else:
+        probabilities.append([category, str(prob1), str(prob2) + "\n"])
     print (category, onename, twonames)
 
 filename3 = path + "/names/" + "stats.txt"
